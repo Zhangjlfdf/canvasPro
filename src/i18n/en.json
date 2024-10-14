@@ -1,0 +1,152 @@
+{
+  "tool": {
+    "draw": "Draw",
+    "eraser": "Eraser",
+    "select": "Select",
+    "board": "Board"
+  },
+  "title": {
+    "drawType": "Draw Type",
+    "drawStyle": "Draw Style",
+    "drawWidth": "Draw Width",
+    "drawColor": "Draw Color",
+    "shadow": "Shadow",
+    "AI": "AI",
+    "shapeType": "Shape Type",
+    "shapeCount": "Shape Count",
+    "materialType": "Material Type",
+    "multiColorType": "MultiColor Type",
+    "drawText": "Draw Text",
+    "fontFamily": "Font Family",
+    "shapeLinePointCount": "Point Count",
+    "borderType": "Border Type",
+    "borderStyle": "Border Style",
+    "fillStyle": "Fill Style",
+    "eraserWidth": "Eraser Width",
+    "opacity": "Opacity",
+    "layer": "Layer",
+    "imageFilters": "Image Filters",
+    "fontStyle": "Font Style",
+    "canvasBackground": "Canvas Background",
+    "canvasSize": "Canvas Size",
+    "drawCache": "Draw Cache",
+    "guideLine": "GuideLine"
+  },
+  "canvasSize": {
+    "width": "Width",
+    "height": "Height"
+  },
+  "drawType": {
+    "freeStyle": "FreeStyle",
+    "shape": "Shape"
+  },
+  "style": {
+    "basic": "Basic",
+    "rainbow": "Rainbow",
+    "shape": "Shape",
+    "material": "Material",
+    "pixels": "Pixels",
+    "multiColor": "MultiColor",
+    "text": "Text",
+    "multiLine": "MultiLine",
+    "reticulate": "Reticulate",
+    "multiPoint": "MultiPoint",
+    "wiggle": "Wiggle",
+    "thorn": "Thorn"
+  },
+  "operate": {
+    "undo": "undo",
+    "redo": "redo",
+    "copy": "copy",
+    "delete": "delete",
+    "text": "add text",
+    "image": "upload image",
+    "clean": "clean",
+    "save": "Save as image",
+    "fileList": "File List"
+  },
+  "info": {
+    "welecome": "Welcome to star",
+    "FreeStyle": {
+      "line1": "Provides 12 different styles of brushes, including Basic Brush, Rainbow Brush, Multi-Shape Brush, Multi-Material Brush, Pixel Brush, Multi-Color Brush, Text Brush, Multi-Line Connection Brush, Reticulate Brush, Multi-Point Connection Brush, Wiggle Brush, Thorn Brush. Satisfy the diversified drawing",
+      "line2": "All brushes support color and brush width configurations",
+      "line3": "MultiShape allows flexible configuration of shape types and quantities",
+      "line4": "Material and MultiColor allows you to adjust the material type of the brush",
+      "line5": "Text drawing support for cyclic text and font configuration"
+    },
+    "ShapeDraw": {
+      "line1": "A variety of common shapes are provided for drawing, with support for multi-point segments and arrows. The shapes support border and fill styles."
+    },
+    "EraserMode": {
+      "line1": "Eraser mode linearly erases all content",
+      "line2": "Supports linear width configurations"
+    },
+    "SelectMode": {
+      "line1": "In selection mode, you can click on the content of the drawing to select it",
+      "line2": "Click handle supports drag and drop, zoom and rotate operations, providing flexible editing options",
+      "line3": "Selecting images supports multiple filter configurations",
+      "line4": "Support for font configuration when selecting text",
+      "line5": "Layer settings are supported for all drawings, including Move Layer Up, Move Layer Down, Move to Top, and Move to Bottom",
+      "line6": "All drawings support transparency configurations"
+    },
+    "BoardMode": {
+      "line1": "The drawing board supports background configuration, including colour, background image, and transparency",
+      "line2": "The drawing board supports customized width and height configurations",
+      "line3": "Support for drawing cache enable. Enabling caching will improve drawing performance in the presence of large amounts of drawing content, while disabling caching will improve canvas clarity.",
+      "line4": "Supports guide line on and off"
+    },
+    "BorderConfig": {
+      "line1": "The bottom left button shows the current zoom ratio in real time, click it to reset the zoom ratio",
+      "line2": "The list of buttons in the center, in order from left to right, are: Undo, Redo, Copy Current Selection, Delete Current Selection, Draw Text, Upload Image, Clear Drawing, Save as Image, and Open File List",
+      "line3": "PC: Hold down the Space key and click the left mouse button to move the canvas, scroll the mouse wheel to realize the canvas zoom, hold down the Backspace key to delete the selected content, and hold down the Ctrl + V keys to paste the clipboard image at the same time",
+      "line4": "Mobile: support for dragging and zooming the canvas after a two-finger press"
+    },
+    "FileConfig": {
+      "line1": "Multi-file configuration: support multiple canvas switching, each canvas can be customized title, add, delete, and provide upload and download"
+    }
+  },
+  "cleanModal":{
+    "title": "Confirm clearing content?",
+    "confirm": "Confirmed",
+    "cancel": "Cancel"
+  },
+  "deleteFileModal": {
+    "title": "Confirm deleting the current file?",
+    "confirm": "Confirmed",
+    "cancel": "Cancel"
+  },
+  "toast": {
+    "uploadFileFail": "Upload failed, please try again"
+  },
+  "filters": {
+    "Sepia": "Sepia",
+    "Invert": "Invert",
+    "BlackWhite": "BlackWhite",
+    "Grayscale": "Grayscale",
+    "Blur": "Blur",
+    "Vintage": "Vintage",
+    "BlendColor": "BlendColor",
+    "Brownie": "Brownie",
+    "Kodachrome": "Kodachrome",
+    "Pixelate": "Pixelate",
+    "Polaroid": "Polaroid",
+    "Technicolor": "Technicolor",
+    "Brightness": "Brightness",
+    "Noise": "Noise",
+    "Convolute": "Emboss"
+  },
+  "fontStyle": {
+    "bold": "Bold",
+    "italic": "Italic",
+    "underLine": "UnderLine",
+    "lineThrough": "LineThrough"
+  },
+  "boardConfig": {
+    "cacheTip": "In the presence of a large amount of drawing content, enabling caching will improve drawing performance, while disabling caching will improve canvas sharpness"
+  },
+  "request": {
+    "tip": "Please feel free to draw...",
+    "loading": "Loading data, please wait...",
+    "error": "Something went wrong. Please try again later."
+  }
+}
