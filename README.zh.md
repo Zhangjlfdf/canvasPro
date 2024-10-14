@@ -6,12 +6,6 @@
 </h4>
 
 <div align="center">
-  <a href="https://github.com/LHRUN/paint-board/stargazers">
-    <img src="https://img.shields.io/github/stars/LHRUN/paint-board" alt="Stars Badge"/>
-  </a>
-  <a href="https://github.com/LHRUN/paint-board">
-    <img src="https://img.shields.io/github/forks/LHRUN/paint-board" alt="Forks Badge"/>
-  </a>
   <a href="https://github.com/LHRUN/paint-board/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/LHRUN/paint-board" alt="License Badge"/>
   </a>
