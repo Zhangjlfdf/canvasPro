@@ -40,11 +40,11 @@ const GuideInfo: React.FC = () => {
               repo:
               <a
                 className="link link-primary inline-block ml-1 mr-3 break-all"
-                href="https://github.com/LHRUN/paint-board.git"
+                href="https://github.com/Zhangjlfdf/canvasPro"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://github.com/LHRUN/paint-board.git
+                https://github.com/Zhangjlfdf/canvasPro
               </a>
               {t('info.welecome')}⭐️
             </div>
