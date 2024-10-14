@@ -70,12 +70,6 @@ Link: [https://songlh.top/paint-board/](https://songlh.top/paint-board/)
 + 多平台认证登录，数据同步。
 + AI 增强绘制。
 
-## V1.3.0 视频演示
-
-<a href="https://www.bilibili.com/video/BV1dJ4m1h7vg">
-  <img width="500" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/v1.3.0_demo_bilibili.png"/>
-</a>
-
 ## 本地启动
 ```
 git clone https://github.com/LHRUN/paint-board.git
@@ -104,44 +98,6 @@ docker run -d -p 8080:80 --name paint-board paint-board
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt=" Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |
 | :--: | :--: | :--: | :--: |
 | 80+ | 80+ | 70+ | 13+ |
-
-## 联系我
-
-如果你有任何建议或者有好的想法，欢迎随时与我联系！
-
-+ Email: song.lhlh@gmail.com
-+ Telegram: https://t.me/longhao_song
-+ Twiter: https://twitter.com/Song_LongHao
-+ 微信：
-  - <img style="width: 300px" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/IMG_1449.jpeg" alt="wechat"/>
-
-### 请作者喝杯咖啡
-
-👋 如果你觉得我的项目很酷，想要支持一下我的开发工作，欢迎用支付宝或微信请我喝一杯咖啡~
-
-<div>
-  <img style="width: 300px" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/IMG_1446.jpeg" alt="wechat"/>
-  <img style="width: 300px" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/IMG_1447.jpeg" alt="wechat"/>
-</div>
-
-
-## 贡献
-
-我很高兴你有兴趣对 PAINT BOARD 做出贡献。如果你发现了 BUG 并希望进行修复，请先在 Issue 中提出。对于新功能的增加，请先在 Discussions 中与我们进行沟通，或者直接通过以上提供的联系方式联系，进行贡献前请阅读以下贡献指南。感谢你的支持！
-
-[贡献指南](./CONTRIBUTING.md)
-
-## 技术文章
-+ Fabric.js 重构后
-  - [画板探秘系列：画板中的时光倒流术](https://songlh.top/2024/01/09/%E7%94%BB%E6%9D%BF%E6%8E%A2%E7%A7%98%E7%B3%BB%E5%88%97%EF%BC%9A%E7%94%BB%E6%9D%BF%E4%B8%AD%E7%9A%84%E6%97%B6%E5%85%89%E5%80%92%E6%B5%81%E6%9C%AF/)
-  - [画板探秘系列：创意画笔第一期](https://songlh.top/2024/04/11/%E7%94%BB%E6%9D%BF%E6%8E%A2%E7%A7%98%E7%B3%BB%E5%88%97%EF%BC%9A%E5%88%9B%E6%84%8F%E7%94%BB%E7%AC%94%E7%AC%AC%E4%B8%80%E6%9C%9F/)
-  - [画板探秘系列：创意画笔第二期](https://songlh.top/2024/04/12/%E7%94%BB%E6%9D%BF%E6%8E%A2%E7%A7%98%E7%B3%BB%E5%88%97%EF%BC%9A%E5%88%9B%E6%84%8F%E7%94%BB%E7%AC%94%E7%AC%AC%E4%BA%8C%E6%9C%9F/)
-  - [画板探秘系列：创意画笔第三期](https://songlh.top/2024/04/13/%E7%94%BB%E6%9D%BF%E6%8E%A2%E7%A7%98%E7%B3%BB%E5%88%97%EF%BC%9A%E5%88%9B%E6%84%8F%E7%94%BB%E7%AC%94%E7%AC%AC%E4%B8%89%E6%9C%9F/)
-  - 编写中...
-+ Fabric.js 重构前
-  - [基于canvas实现的多功能画板](https://songlh.top/2022/09/21/%E5%9F%BA%E4%BA%8Ecanvas%E5%AE%9E%E7%8E%B0%E7%9A%84%E5%A4%9A%E5%8A%9F%E8%83%BD%E7%94%BB%E6%9D%BF/)
-  - [canvas画板之绘画元素的框选](https://songlh.top/2022/12/05/canvas%E7%94%BB%E6%9D%BF%E4%B9%8B%E7%BB%98%E7%94%BB%E5%85%83%E7%B4%A0%E7%9A%84%E6%A1%86%E9%80%89/)
-  - [canvas画板之画笔的多种效果](https://songlh.top/2022/12/17/canvas%E7%94%BB%E6%9D%BF%E4%B9%8B%E7%94%BB%E7%AC%94%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%95%88%E6%9E%9C/)
 
 ## License
 

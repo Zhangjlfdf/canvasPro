@@ -70,16 +70,6 @@ Link: [https://songlh.top/paint-board/](https://songlh.top/paint-board/)
 + i18n
   - Currently support English, Chinese language display.
 
-## Future Plans
-+ Multi-platform authentication login and data synchronization
-+ AI Enhanced Drawing
-
-## V1.3.0 Video Demo
-
-<a href="https://www.bilibili.com/video/BV1dJ4m1h7vg">
-  <img width="500" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/v1.3.0_demo_bilibili.png"/>
-</a>
-
 ## Quick Start
 ```
 git clone https://github.com/LHRUN/paint-board.git
@@ -108,42 +98,6 @@ We recommend using the latest version of Google Chrome, the following is the min
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/edge/edge_48x48.png" alt=" Edge" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Edge | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" alt="Safari" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Safari |
 | :--: | :--: | :--: | :--: |
 | 80+ | 80+ | 70+ | 13+ |
-
-## Contact me
-
-If you have any suggestions or good ideas, welcome to contact me at any time!
-
-+ Email: song.lhlh@gmail.com
-+ Telegram: https://t.me/longhao_song
-+ Twiter: https://twitter.com/Song_LongHao
-+ WeChat:
-  - <img style="width: 300px" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/IMG_1449.jpeg" alt="wechat"/>
-
-### Buy the author a coffee.
-
-👋 If you think my project is cool and want to support my development work, feel free to buy me a cup of coffee with Alipay or WeChat ~
-
-<div>
-  <img style="width: 300px" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/IMG_1446.jpeg" alt="wechat"/>
-  <img style="width: 300px" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/IMG_1447.jpeg" alt="wechat"/>
-</div>
-
-## Contributing
-
-I'm glad you're interested in contributing to PAINT BOARD. If you find a bug and want to fix it, please submit it in an Issue first. For new feature additions, please contact us in Discussions, or directly through the contact details provided above, and read the Contribution Guidelines below before contributing. Thank you for your support!
-
-[Contribution Guidelines](./CONTRIBUTING.md)
-
-## Document
-+ After refactoring with Fabric.js
-  - [Exploring the Canvas Series: The Art of Time Reversal in the Canvas](https://songlh.top/2024/01/10/Exploring-the-Canvas-Series-The-Art-of-Time-Reversal-in-the-Canvas/)
-  - [Exploring the Canvas Series: Creative Brushes Part 1](https://songlh.top/2024/04/14/Exploring-the-Canvas-Series-Creative-Brushes-Part-1/)
-  - [Exploring the Canvas Series: Creative Brushes Part 2](https://songlh.top/2024/04/15/Exploring-the-Canvas-Series-Creative-Brushes-Part-2/)
-  - [Exploring the Canvas Series: Creative Brushes Part 3](https://songlh.top/2024/04/16/Exploring-the-Canvas-Series-Creative-Brushes-Part-3/)
-  - writing...
-+ Before refactoring with Fabric.js
-  - [Canvas Artistry：Mastering Selection, Dragging, and Scaling](https://songlh.top/2023/11/30/Canvas-Artistry1)
-  - [Canvas Artistry：Drawing magic with multiple effects](https://songlh.top/2023/12/01/Canvas-Artistry2)
 
 ## License
 
