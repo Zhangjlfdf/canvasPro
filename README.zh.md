@@ -20,7 +20,7 @@
 **简体中文** | [English](./README.md)
 
 ## 预览
-Link: [https://songlh.top/paint-board/](https://songlh.top/paint-board/)
+Link: [https://zhangjlfdf.github.io/canvasPro/](https://zhangjlfdf.github.io/canvasPro/)
 
 <div align="center" style="width: 100%;">
   <img style="width: 100%" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/preview_device.png" alt="preview"/>
