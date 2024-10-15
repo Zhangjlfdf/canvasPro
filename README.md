@@ -1,25 +1,3 @@
-<div align="center">
-  <img width="180" src="https://raw.githubusercontent.com/LHRUN/file-store/main/paint-board/logo.png" alt="logo"/>
-</div>
-
-<h4 align="center">
-
-  A fun art drawing board that supports multi-end operation
-
-</h4>
-
-
-<div align="center">
-  <a href="https://github.com/LHRUN/paint-board/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/LHRUN/paint-board" alt="License Badge"/>
-  </a>
-  <a href="https://github.com/LHRUN/paint-board">
-    <img src="https://img.shields.io/badge/Made%20with-React%20%26%20Vite-pink" alt="Next&Prisma" />
-  </a>
-  <a href="https://github.com/LHRUN/paint-board/releases">
-    <img alt="release" src="https://img.shields.io/github/package-json/v/LHRUN/paint-board" />
-  </a>
-</div>
 
 **English** | [简体中文](./README.zh.md)
 
