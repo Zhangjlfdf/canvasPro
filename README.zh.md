@@ -66,9 +66,9 @@ Link: [https://zhangjlfdf.github.io/canvasPro/](https://zhangjlfdf.github.io/can
 
 ## 本地启动
 ```
-git clone https://github.com/LHRUN/paint-board.git
-pnpm install
-pnpm dev
+git clone https://github.com/Zhangjlfdf/canvasPro.git
+npm install
+npm dev
 ```
 
 ### Docker 支持
@@ -95,4 +95,4 @@ docker run -d -p 8080:80 --name paint-board paint-board
 
 ## License
 
-MIT License. See the [LICENSE](https://github.com/LHRUN/paint-board/blob/main/LICENSE) file.
+MIT License. See the [LICENSE](https://github.com/Zhangjlfdf/canvasPro/blob/main/LICENSE) file.

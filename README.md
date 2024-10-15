@@ -66,9 +66,9 @@ Link: [https://zhangjlfdf.github.io/canvasPro/](https://zhangjlfdf.github.io/can
 
 ## Quick Start
 ```
-git clone https://github.com/LHRUN/paint-board.git
-pnpm install
-pnpm dev
+git clone https://github.com/Zhangjlfdf/canvasPro.git
+npm install
+npm dev
 ```
 
 ### Docker Support
@@ -95,4 +95,4 @@ We recommend using the latest version of Google Chrome, the following is the min
 
 ## License
 
-MIT License. See the [LICENSE](https://github.com/LHRUN/paint-board/blob/main/LICENSE) file.
+MIT License. See the [LICENSE](https://github.com/Zhangjlfdf/canvasPro/blob/main/LICENSE) file.
